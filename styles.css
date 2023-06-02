@@ -1,0 +1,38 @@
+h1,
+p {
+    text-align: center;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+a {
+    font-size: 1.5rem;
+    display: block;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.index {
+    background-color: rgb(235, 222, 255);
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+    width: 75vw;
+    height: auto;
+}
+
+.about {
+    background-color: rgb(225, 255, 218);
+}
+
+.contact {
+    background-color: rgb(255, 234, 215);
+}
+
+.not-found {
+    background-color: rgb(255, 224, 239);
+}
